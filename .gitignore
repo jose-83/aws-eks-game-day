@@ -1,0 +1,5 @@
+# Ignore local .idea directory
+.idea
+
+# MacOs files
+**/.DS_Store
